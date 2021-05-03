@@ -1,18 +1,18 @@
 ## Hi there, I'm Teo 👋
 
-### Aspiring front-end (React) dev || Looking for internship or work
+# Aspiring front-end (React) dev || Looking for internship or work
 
 also I am:
 -🎸 Guitar player (Fender telecaster),
 -🧪 Start-up enthusiast,
 -🏋️  Gym geek
 
-### Portfolio
+# Portfolio
 - www.fundatify.com
 - https://satchapp.netlify.app
 - https://faag-stocks.netlify.app
 
-# Some info!
+### Some info!
 
 - 🔭 I’m currently preparing for hackathon in june
 - 🌱 I’m currently learning TypeScript
