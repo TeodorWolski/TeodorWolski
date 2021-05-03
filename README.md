@@ -3,9 +3,9 @@
 # Aspiring front-end (React) dev || Looking for internship or work
 
 also I am:
--🎸 Guitar player (Fender telecaster),
--🧪 Start-up enthusiast,
--🏋️  Gym geek
+🎸 Guitar player (Fender telecaster),
+🧪 Start-up enthusiast,
+🏋️  Gym geek
 
 # Portfolio
 - www.fundatify.com
