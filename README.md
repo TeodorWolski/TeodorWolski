@@ -9,8 +9,8 @@ also I am:
 
 # Portfolio
 - www.fundatify.com
-- https://satchapp.netlify.app (now only for desktop)
-- https://faag-stocks.netlify.app (now only for desktop)
+- https://github.com/TeodorWolski/StockApp
+- https://github.com/TeodorWolski/SatchApp
 
 ### Some info!
 
