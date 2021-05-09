@@ -9,12 +9,11 @@ also I am:
 
 # Portfolio
 - www.fundatify.com
-- https://satchapp.netlify.app
-- https://faag-stocks.netlify.app
+- https://satchapp.netlify.app (now only for desktop)
+- https://faag-stocks.netlify.app (now only for desktop)
 
 ### Some info!
 
 - 🔭 I’m currently preparing for hackathon in june
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: teodorwolski88@protonmail.com
-- 📚 I’m currently reading "Ecce homo" by Friedrich Nietzche
