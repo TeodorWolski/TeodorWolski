@@ -1,9 +1,11 @@
 ## Hi there, I'm Teo 👋
 
-also I am:
+I am:
 🎸 Guitar player (Fender telecaster),
 🧪 Start-up enthusiast,
 🏋️  Gym geek
+
+#Working at mogulcoin.io
 
 # Portfolio
 - www.fundatify.com
