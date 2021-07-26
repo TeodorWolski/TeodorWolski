@@ -14,6 +14,5 @@ I am:
 
 
 - 💡 I'm working at mogulcoin.io
-- 🔭 I’m currently preparing for hackathon in june
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: teodorwolski88@protonmail.com
