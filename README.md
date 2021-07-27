@@ -6,7 +6,6 @@ I am:
 🏋️  Gym geek
 
 # Portfolio
-- www.fundatify.com
 - https://github.com/TeodorWolski/StockApp
 - https://github.com/TeodorWolski/SatchApp
 
