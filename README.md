@@ -5,10 +5,6 @@ I am:
 🧪 Start-up enthusiast,
 🏋️  Gym geek
 
-# Portfolio
-- https://github.com/TeodorWolski/StockApp
-- https://github.com/TeodorWolski/SatchApp
-
 ### Some info!
 
 
